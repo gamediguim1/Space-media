@@ -1,0 +1,22 @@
+﻿{
+	"name": "Space Blaster",
+	"description": "Space shootemup",
+	"version": "1.0.0.0",
+	"launch_path": "/snake-pesadelo.000webhostapp.com/snake/index.html/",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/snake-pesadelo.000webhostapp.com/snake/index.html/icon-16.png",
+		"32": "/snake-pesadelo.000webhostapp.com/snake/index.html/icon-32.png",
+		"128": "/snake-pesadelo.000webhostapp.com/snake/index.html/icon-128.png",
+		"256": "/snake-pesadelo.000webhostapp.com/snake/index.html/icon-256.png"
+	},
+	"developer": {
+		"name": "Scirra",
+		"url": ""
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"appcache_path": "/snake-pesadelo.000webhostapp.com/snake/index.html/offline.appcache",
+	"fullscreen": "true"
+}
